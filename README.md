@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/A4wx2zT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1gmhmU2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 osTicket gives you the oppurtunity to see the ticket number followed by the ticket subject, who created the ticket and mainly the priority level.
@@ -35,7 +35,7 @@ osTicket gives you the oppurtunity to see the ticket number followed by the tick
 <br />
 
 <p>
-<img src="https://i.imgur.com/iQW5jJS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/55g16AV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The osTicket in the picture states the problem the user is having with the computer and what time the ticket was created so you can fix the issue in a timely manner. It also shows the status of the ticket, shows the SLA agreement as well as who the ticket is assigned too and what time.

@@ -33,6 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 osTicket gives you the oppurtunity to see the ticket number followed by the ticket subject, who created the ticket and mainly the priority level.
 </p>
 <br />
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/5ydDwY3S/Screenshot-2023-09-16-101838.png' border='0' alt='Screenshot-2023-09-16-101838'/></a>
 
 <p>
 

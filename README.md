@@ -35,7 +35,7 @@ osTicket gives you the oppurtunity to see the ticket number followed by the tick
 <br />
 
 <p>
-<img src="https://imgur.com/55g16AV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 The osTicket in the picture states the problem the user is having with the computer and what time the ticket was created so you can fix the issue in a timely manner. It also shows the status of the ticket, shows the SLA agreement as well as who the ticket is assigned too and what time.
